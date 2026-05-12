@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Javier+L%C3%B3pez+Camacho;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
-  <br/>
+  <h1>Javier López Camacho</h1>
+  <h3>Full-Stack & Mobile Developer 🚀</h3>
 
   <p>
     Ingeniero en Desarrollo y Gestión de Software · San Juan del Río, Querétaro 🇲🇽<br/>
