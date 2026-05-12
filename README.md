@@ -1,336 +1,140 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=32&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Javier+L%C3%B3pez+Camacho;Full-Stack+%26+Mobile+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Sora&weight=700&size=36&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=80&lines=Javier+L%C3%B3pez+Camacho;Full-Stack+%26+Mobile+Developer" alt="Typing SVG" />
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=3000&color=6B7280&center=true&vCenter=true&width=500&height=30&lines=San+Juan+del+R%C3%ADo%2C+Quer%C3%A9taro+%F0%9F%87%B2%F0%9F%87%BD+%E2%80%94+Ing.+Desarrollo+y+Gesti%C3%B3n+de+Software" alt="Location" />
+  <p>
+    Ingeniero en Desarrollo y Gestión de Software · San Juan del Río, Querétaro 🇲🇽<br/>
+    Co-fundador de <strong>Trinium</strong> · +2 años construyendo productos reales para gobierno y empresas
+  </p>
 
-<br/>
+  <p>
+    <a href="https://javier-lopez.dev">
+      <img src="https://img.shields.io/badge/Portfolio-javier--lopez.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/javier-lópez-camacho/">
+      <img src="https://img.shields.io/badge/LinkedIn-Javier_López-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:jl728122@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-jl728122-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
 
-[![Portfolio](https://img.shields.io/badge/javier–lopez.dev-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://javier-lopez.dev)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-lópez-camacho/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jl728122@gmail.com)&nbsp;
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Javi1771.Javi1771&color=6d28d9&style=for-the-badge&label=visitas)
-
+  <img src="https://komarev.com/ghpvc/?username=Javi1771&color=6d28d9&style=flat-square&label=visitas+al+perfil" alt="profile views" />
 </div>
 
-<br/>
+---
+
+### Sobre mí
+
+Desarrollo soluciones completas — del diseño de arquitectura al deploy en producción. He trabajado en gobierno municipal, startups y clientes freelance, siempre con el mismo enfoque: código limpio, UX funcional y resultados medibles.
+
+- 🏛️ Desarrollé apps ciudadanas usadas por miles de personas en el Municipio de San Juan del Río
+- 🚀 Co-fundador de **Trinium**, startup de software a medida para comunidades y organizaciones
+- 📱 Apps publicadas en **Google Play Store** con Flutter
+- ⚡ Stack completo: web, mobile, backend, bases de datos e IoT
 
 ---
 
-## Sobre mí
-
-Soy ingeniero de software con más de 2 años construyendo productos reales — desde apps ciudadanas usadas por miles de personas hasta ERPs para organizaciones comunitarias. Me encargo del ciclo completo: arquitectura, desarrollo, deployment y mantenimiento, sin depender de un equipo externo para entregar.
-
-He trabajado en gobierno municipal, startups propias y clientes freelance. Cada proyecto lo abordo con el mismo enfoque: código limpio, UX intuitiva y métricas que demuestren valor real.
-
-> *Co-fundador de **Trinium**, startup de software a medida para comunidades y pequeñas organizaciones.*
-
-<br/>
-
----
-
-## Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
+### Tecnologías
 
 **Frontend & Mobile**
-```
-Next.js · React · TypeScript
-Flutter · React Native · Expo
-Tailwind CSS
-```
 
-</td>
-<td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+</p>
 
-**Backend & Datos**
-```
-Node.js · NestJS · REST APIs
-SQL Server · PostgreSQL · MySQL
-Firebase · Supabase · Drizzle ORM
-```
+**Backend & Bases de datos**
 
-</td>
-<td valign="top" width="33%">
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Tools & Otros**
-```
-Git · Vercel · IIS · SmarterASP
-Google Maps Platform · Cloudinary
-ESP8266 · Arduino · IoT
-MCP Servers · Resend · Prisma
-```
+**Herramientas & Otros**
 
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-## Proyectos
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💧 Hydra
-**ERP comunitario para asociaciones de agua** · *Trinium, 2026*
-
-ERP con +10 módulos: padrón de socios, lectura de medidores, facturación, caja e inventario. Lecturas offline-first con sync automático. Portal ciudadano con REST API y JWT.
-
-`Next.js 16` `TypeScript` `Supabase` `Drizzle ORM` `Vercel`
-
-[![Repo](https://img.shields.io/badge/GitHub-Hydra--Pub-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/Hydra-Pub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Pandora
-**Sistema médico municipal** · *Municipio SJR, 2024–2025*
-
-Digitalizó el flujo completo de atención médica. Eliminó el 95% del papeleo y redujo tiempos de espera de 45 a 12 minutos. Incluye escaneo facial, firma digital y credencialización.
-
-`Next.js` `SQL Server` `SOAP` `Node.js` `IIS`
-
-[![Repo](https://img.shields.io/badge/GitHub-Pandora--Pub-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/Pandora-Pub)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 CUS Móvil
-**Identidad digital ciudadana** · *Municipio SJR, 2025*
-
-App móvil para gestión de trámites municipales. Redujo visitas presenciales un 65% y tiempos de respuesta de semanas a días. Integración con Google Maps y padrón ciudadano.
-
-`Flutter` `Next.js API` `PHP API` `Cloudinary`
-
-[![Repo](https://img.shields.io/badge/GitHub-Cus--Movil--Pub-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/Cus-Movil-Pub)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Assembly
-**Gestión de ensamblajes industriales** · *SIAUMex, 2025*
-
-Plataforma empresarial que centralizó el registro de productos con validación inteligente. Redujo el ciclo de alta en 60% y los errores de captura en 85%.
-
-`Next.js` `SQL Server` `Node.js` `JWT` `SmarterASP`
-
-[![Repo](https://img.shields.io/badge/GitHub-productos__assembly-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/productos_assembly)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Atención Ciudadana
-**Reportes por voz con offline-first** · *Municipio SJR, 2025*
-
-App de captura territorial con flujos guiados por voz. Funciona sin internet y sincroniza automáticamente. Redujo el tiempo de registro por reporte de 15 a 3 minutos.
-
-`Flutter` `TTS/STT` `SQLite` `PHP API`
-
-[![Repo](https://img.shields.io/badge/GitHub-atencion--ciudadana--pub-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/atencion-ciudadana-pub)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Motores Jordan
-**Landing page & consultoría IT** · *Freelance, 2025*
-
-Plataforma de captación de clientes industriales con contacto directo vía WhatsApp. Migración de dominio y correos a Google Workspace.
-
-`Next.js` `Tailwind CSS` `Vercel`
-
-[![Repo](https://img.shields.io/badge/GitHub-motoresjordan-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/motoresjordan)&nbsp;[![Live](https://img.shields.io/badge/Live-motoresjordanmx.com-22c55e?style=flat-square)](https://motoresjordanmx.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 FinMaster
-**Gestión de tarjetas de crédito** · *Personal, 2024*
-
-App personal que eliminó el 100% de pagos tardíos mediante alertas inteligentes. Dashboard consolidado con análisis de patrones de gasto y autenticación Google.
-
-`Flutter` `Firebase` `Push Notifications`
-
-[![Repo](https://img.shields.io/badge/GitHub-finmaster-6d28d9?style=flat-square&logo=github)](https://github.com/Javi1771/finmaster)
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Nimbus
-**Gestión logística móvil** · *SINE Tecnologías, 2023*
-
-Mi primera app publicada en Google Play Store. Digitalizó la operación logística de SINE con visibilidad en tiempo real de depósitos, pedidos y rutas. Redujo consultas telefónicas un 80%.
-
-`Flutter` `SOAP` `Google Maps` `Play Store`
-
-[![Repo](https://img.shields.io/badge/GitHub-sine__nimbus-6d28d9?style=flat-square&logo=github)](https://github.com/JavierUTSJR/sine_nimbus)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💡 Smart LED
-**Control IoT con ESP8266** · *Personal, 2023*
-
-Plataforma IoT para control remoto de LEDs, servomotores y sensores ambientales. Telemetría en tiempo real vía Firebase con historial de eventos y gráficas.
-
-`Flutter` `Firebase` `ESP8266` `Arduino` `Bluetooth`
-
-[![Repo](https://img.shields.io/badge/GitHub-smart__led-6d28d9?style=flat-square&logo=github)](https://github.com/JavierUTSJR/smart_led)
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-IoT-ff6b35?style=for-the-badge"/>
+</p>
 
 ---
 
-## Experiencia
+### Proyectos destacados
 
-<table>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`Ene – Mar 2026`
-
-</td>
-<td valign="top">
-
-**Co-fundador & Desarrollador Full-Stack** · Trinium *(Startup)*
-
-Fundé junto a 2 socios una startup de software a medida para comunidades y pequeñas organizaciones. Lideré el desarrollo completo de Hydra, el primer producto de la empresa.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`Sep – Dic 2025`
-
-</td>
-<td valign="top">
-
-**Desarrollador Full-Stack Freelance** · SIAUMex *(Remoto)*
-
-Desarrollé Assembly, sistema de gestión de ensamblajes industriales con arquitectura modular y validación inteligente sobre SQL Server.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`Jun – Ago 2025`
-
-</td>
-<td valign="top">
-
-**Desarrollador Web & Consultor IT Freelance** · Motores Jordan *(Remoto)*
-
-Diseñé y desarrollé la landing page corporativa. Migré el dominio a Squarespace y los correos empresariales a Google Workspace.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`Ene – Oct 2025`
-
-</td>
-<td valign="top">
-
-**Desarrollador Full-Stack & Mobile** · Municipio de San Juan del Río *(Contrato)*
-
-Finalicé y desplegué Pandora a producción. Desarrollé CUS Móvil y Atención Ciudadana. Brindé mentoría y soporte técnico a otros desarrolladores del equipo.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`Oct 2024 – Ene 2025`
-
-</td>
-<td valign="top">
-
-**Desarrollador Full-Stack** · Municipio de San Juan del Río *(Estadías de Ingeniería)*
-
-Desarrollé Pandora desde cero en equipo con 2 compañeros: arquitectura, base de datos, APIs y módulos principales.
-
-</td>
-</tr>
-<tr><td colspan="2"><br/></td></tr>
-<tr>
-<td width="22%" align="right" valign="top">
-
-`May – Ago 2023`
-
-</td>
-<td valign="top">
-
-**Desarrollador Mobile** · SINE Tecnologías *(Estadías de TSU)*
-
-Primera experiencia profesional. Desarrollé y publiqué Nimbus en Google Play Store — ciclo completo de desarrollo, testing y publicación con Flutter.
-
-</td>
-</tr>
-</table>
-
-<br/>
+| Proyecto | Descripción | Stack | |
+|---|---|---|---|
+| **💧 Hydra** | ERP comunitario con +10 módulos para asociaciones de agua. Offline-first, portal ciudadano con JWT. | Next.js · TypeScript · Supabase · Drizzle | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/Hydra-Pub) |
+| **🏥 Pandora** | Sistema médico municipal. Eliminó el 95% del papeleo, redujo esperas de 45 → 12 min. | Next.js · SQL Server · SOAP · IIS | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/Pandora-Pub) |
+| **📱 CUS Móvil** | App de identidad digital ciudadana. Redujo visitas presenciales un 65%. | Flutter · Firebase · Google Maps | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/Cus-Movil-Pub) |
+| **📋 Assembly** | Gestión de ensamblajes industriales. Alta de productos 60% más rápido, errores -85%. | Next.js · SQL Server · Node.js | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/productos_assembly) |
+| **🎙️ Atención Ciudadana** | Reportes ciudadanos por voz, funciona sin internet. Registro: 15 min → 3 min. | Flutter · TTS/STT · SQLite | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/atencion-ciudadana-pub) |
+| **🌐 Motores Jordan** | Landing page corporativa + migración IT a Google Workspace. | Next.js · Tailwind · Vercel | [![](https://img.shields.io/badge/Live-22c55e?style=flat-square)](https://motoresjordanmx.com/) [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/motoresjordan) |
+| **💳 FinMaster** | App de finanzas personales. Eliminó el 100% de pagos tardíos con alertas inteligentes. | Flutter · Firebase | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Javi1771/finmaster) |
+| **🚚 Nimbus** | App logística publicada en Play Store. Consultas telefónicas -80%. | Flutter · SOAP · Google Maps | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierUTSJR/sine_nimbus) |
+| **💡 Smart LED** | Control IoT de LEDs y sensores con ESP8266. Telemetría en tiempo real. | Flutter · Firebase · Arduino | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/JavierUTSJR/smart_led) |
 
 ---
 
-## GitHub Stats
+### Experiencia
+
+| Período | Rol | Empresa |
+|---|---|---|
+| `Ene – Mar 2026` | Co-fundador & Full-Stack Developer | **Trinium** *(Startup)* |
+| `Sep – Dic 2025` | Full-Stack Developer Freelance | **SIAUMex** *(Remoto)* |
+| `Jun – Ago 2025` | Desarrollador Web & Consultor IT | **Motores Jordan** *(Remoto)* |
+| `Ene – Oct 2025` | Full-Stack & Mobile Developer | **Municipio de San Juan del Río** *(Contrato)* |
+| `Oct 2024 – Ene 2025` | Full-Stack Developer | **Municipio de San Juan del Río** *(Estadías de Ingeniería)* |
+| `May – Ago 2023` | Mobile Developer | **SINE Tecnologías** *(Estadías de TSU)* |
+
+---
+
+### GitHub Stats
 
 <div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Javi1771&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=6d28d9"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javi1771&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Javi1771&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&ring_color=6d28d9" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javi1771&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Javi1771&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280&stroke=6d28d9&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
 
-<img src="https://streak-stats.demolab.com?user=Javi1771&hide_border=true&background=0d1117&ring=6d28d9&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280&stroke=6d28d9&currStreakNum=e2e8f0&sideNums=e2e8f0" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Javi1771&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javi1771&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javi1771&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=a78bfa&area=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javi1771&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6d28d9&point=a78bfa&area=true" />
+  <br/><br/>
 
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Javi1771/Javi1771/output/github-contribution-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Javi1771/Javi1771/output/github-contribution-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Javi1771/Javi1771/output/github-contribution-snake.svg"/>
+  </picture>
 
-<br/>
+  <br/><br/>
 
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Javi1771/Javi1771/output/github-contribution-snake.svg" alt="snake animation" />
-
-<br/><br/>
-
-[![Ver portfolio completo](https://img.shields.io/badge/Ver%20portfolio%20completo%20→-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://javier-lopez.dev)
-
+  <a href="https://javier-lopez.dev">
+    <img src="https://img.shields.io/badge/Ver_portfolio_completo_→-6d28d9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
